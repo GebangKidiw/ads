@@ -1,4 +1,4 @@
-<img src="pic/komisishopee.jpg" width="500"/>
+<img src="pic/komisishopee.jpg" width="875"/>
 
 ## Script AGC
  - [[AGC] Shuriken](https://v4.dojo.cc/aff/go/orlin24?i=1)
