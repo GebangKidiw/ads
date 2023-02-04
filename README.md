@@ -1,7 +1,7 @@
 <img src="pic/komisishopee.jpg" width="875"/>
 
 ## ALAT TEMPUR MAIN SHOPEE AFFILIATE CEPAT GAJIAN
- - [[AGC] Shuriken](https://v4.dojo.cc/aff/go/orlin24?i=1)
+ - [[AGC] Imake](https://vyant.cc/imake?vref=1179001224286756)
  - [[Script] PopUp Github](https://v4.dojo.cc/aff/go/orlin24?i=1)
  - [[Script] Blog HTML](https://raw.githubusercontent.com/GebangKidiw/ads/main/pop.js)
  
