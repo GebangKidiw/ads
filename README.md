@@ -1,4 +1,5 @@
 <img src="pic/komisishopee.jpg" width="875"/>
+<img src="pic/involve.png" width="875"/>
 
 ## ALAT TEMPUR MAIN SHOPEE AFFILIATE CEPAT GAJIAN
  - [[AGC] Shuriken6](https://v4.dojo.cc/aff/go/orlin24?i=1)
